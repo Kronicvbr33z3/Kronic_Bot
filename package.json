@@ -1,0 +1,16 @@
+{
+  "name": "kronic-bot",
+  "version": "1.0.0",
+  "description": "Discord-Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "node-fetch": "^2.6.0",
+    "snoowrap": "^1.21.0"
+  }
+}
